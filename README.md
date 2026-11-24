@@ -1,4 +1,4 @@
-Abstract
+Abstract - 
 
 AFGL 618 is a carbon-rich protoplanetary nebula (PPN) that has recently
 left the asymptotic giant branch (AGB) and is quickly heading towards the
