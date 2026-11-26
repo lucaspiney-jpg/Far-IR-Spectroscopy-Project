@@ -17,3 +17,5 @@ than the instrumental resolution, and the continuum index varied between
 the low- and high-frequency bands. My results suggest that AFGL 618 has a
 high-temperature fast outflow and a cooler outer envelope, giving the PPN a
 range of temperatures that get hotter towards the centre.
+
+Associated with UCL's undergraduate astrophysics program
